@@ -56,6 +56,11 @@
 
 ----------------------------------------------------------------------------
 ## ③ 최종 DataFrame 
+* df.head()   
+![image](https://user-images.githubusercontent.com/37467592/162133692-8518cfbc-d1bc-4102-a8ea-4271db8cce71.png)
+
+* df.info()   
+![image](https://user-images.githubusercontent.com/37467592/162133833-ac5eaa3a-178e-44fd-ac12-cd05d77c6c17.png)
 
 ----------------------------------------------------------------------------
 ## ④ 데이터 분석
